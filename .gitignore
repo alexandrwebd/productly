@@ -1,0 +1,7 @@
+node_modules/
+app/
+Productly.fig
+gulpfile.js
+package-lock.json
+package.json
+.DS_Store
